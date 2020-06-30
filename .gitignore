@@ -1,0 +1,6 @@
+.idea
+join.txt
+token-kubeapps
+*.log
+.vagrant/
+config
