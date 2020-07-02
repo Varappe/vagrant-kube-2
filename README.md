@@ -13,7 +13,7 @@ Nodes (can be modify in Vagrantfile):
 Services (can be modify and upgrade in metallb-config.yaml):
 - 240 services with external IP address from subnet.15 to subnet.254
 
-For a README in French see [Kubernetes quick start - GitHub vagrant-kube-2 - V0.0.pdf](docs/Kubernetes quick start - GitHub vagrant-kube-2 - V0.0.pdf)
+For a README in French see [Kubernetes quick start - GitHub vagrant-kube-2 - V0.0.pdf](docs/Kubernetes quick start - GitHub vagrant-kube-2 - V0.0.pdf")
 
 ## Host prerequisite
 ### Session Proxy environment
