@@ -1,7 +1,3 @@
-.. module:: README.rst
-   :synopsis: vagrant-kube-2 Readme
-.. moduleauthor:: Frederic PRADIER <frederic.pradier@orange.fr>
-
 # Kubernetes cluster with vagrant and kubeadm
 
 Simple vagrantfile for any sized cluster (master + workers) in Ubuntu 18.04 VMs. Very configurable through 2 env variables.
