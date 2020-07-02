@@ -1,6 +1,6 @@
 .. module:: README.rst
    :synopsis: vagrant-kube-2 Readme
-.. moduleauthor:: Frederic PRADIER <frederic.pradier@orange.com>
+.. moduleauthor:: Frederic PRADIER <frederic.pradier@orange.fr>
 
 # Kubernetes cluster with vagrant and kubeadm
 
